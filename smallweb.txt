@@ -60,6 +60,7 @@ http://benyu.org/feed
 http://bholley.net/feed.xml
 http://bilalquadri.com/feed.xml
 http://birdmilkcafe.com/feed
+https://birthbydrip.neocities.org/index.xml
 http://bitfission.com/atom.xml
 http://bitflipping.net/posts_feed
 http://bitmason.blogspot.com/atom.xml
